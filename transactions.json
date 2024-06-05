@@ -1,0 +1,20 @@
+[
+    {
+        "type": "income",
+        "category": "Salary",
+        "amount": 15000.0,
+        "date": "2024-06-05"
+    },
+    {
+        "type": "expense",
+        "category": "Rent",
+        "amount": 8000.0,
+        "date": "2024-06-05"
+    },
+    {
+        "type": "expense",
+        "category": "Emi",
+        "amount": 2000.0,
+        "date": "2024-06-05"
+    }
+]
